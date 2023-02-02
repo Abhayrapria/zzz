@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class StudList {
 
     /**
-     * @param args abhay
+     * @param args abhay rapria
      */
     public static void main(String[] args) {
         
